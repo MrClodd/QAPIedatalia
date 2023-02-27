@@ -1,4 +1,4 @@
-# Test API for Edatalia chalenge #
+# Tests QA API for Edatalia #
 
 
 ## Table of Contents
@@ -46,7 +46,10 @@ You should run this command:
 
 ## <a name="result">Result of Test Cases in Postman</a>
 
- The tests cases is ejecuting to check the API Rest
+ The tests cases is ejecuting to check the API Rest on Edatalia
+ 
+ <p align="center">
+<img src="" width=90% height=20%>
  
 <br>Test case 1: Max amount of 0s when the binary has multiple groups of 0s 
 <br>Test Data: 545
@@ -70,10 +73,10 @@ You should run this command:
 <br>Result is: 4
 
 <br>Test Case 5: Max amount of 0s when the binary has multiple groups of 0s 
-<br>Test Data: 2147483649 out of the range
+<br>Test Data: 16666666666666666666666666 out of the range
 <br>Result is: status 400
 <br>Title of error: "One or more validation errors occurred.",
-<br>Error number: "The value '2147483649' is not valid."
+<br>Error number: "The value '16666666666666666666666666' is not valid."
 
 ## <a name="conclusion">Conclusion</a>
 
