@@ -7,7 +7,6 @@
   * [Prerequisites](#prerequisites)
   * [Project Setup](#install-project)
 - [To run JavaScript Function](#runJavaScriptFunction)
-- [Why this Framework?](#tools)
 - [Usage](#usage)
 - [Result Of Test Cases](#result)
 - [Conclusion](#conclusion)
