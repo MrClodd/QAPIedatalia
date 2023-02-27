@@ -1,6 +1,6 @@
 # Tests QA API for Edatalia #
 
-## <a name="section-installation">Getting Started</a>
+## 📫 <a name="section-installation">Getting Started</a>
 
 ### 💬 Previous Requirements
 
