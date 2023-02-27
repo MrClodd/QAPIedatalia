@@ -48,6 +48,9 @@ You should run this command:
 
  The tests cases is ejecuting to check the API Rest on Edatalia
  
+ <p align="center">
+<img src="" width=90% height=20%>
+ 
 <br>Test case 1: Max amount of 0s when the binary has multiple groups of 0s 
 <br>Test Data: 545
 <br>Binary is: 1000100001
