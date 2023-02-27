@@ -1,4 +1,4 @@
-# Test API for Edatalia chalenge #
+# Tests API for Edatalia challenge #
 
 
 ## Table of Contents
