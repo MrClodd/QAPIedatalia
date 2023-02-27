@@ -47,22 +47,22 @@ You should run this command:
 <br>Result is: 4
 
 
-🧪<br>Test Case 2: Max amount of zeros when the binary has one group of 0s
+🧪Test Case 2: Max amount of zeros when the binary has one group of 0s
 <br>Test Data: 9
 <br>Binary is: 1001
 <br>Result is: 2
 
-🧪<br>Test Case 3: Max amount of zero when the binary only has 1s 
+🧪Test Case 3: Max amount of zero when the binary only has 1s 
 <br>Test Data: 7
 <br>Binary is: 111
 <br>Result is: 4
 
-🧪<br>Test Case 4: Max amount of zero when the binary has not group of 0s between 1s 
+🧪Test Case 4: Max amount of zero when the binary has not group of 0s between 1s 
 <br>Test Data: 16
 <br>Binary is: 10000
 <br>Result is: 4
 
-🧪<br>Test Case 5: Max amount of 0s when the binary has multiple groups of 0s 
+🧪Test Case 5: Max amount of 0s when the binary has multiple groups of 0s 
 <br>Test Data: 16666666666666666666666666 out of the range
 <br>Result is: status 400
 <br>Title of error: "One or more validation errors occurred.",
