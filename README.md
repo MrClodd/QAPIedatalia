@@ -1,15 +1,5 @@
 # Tests QA API for Edatalia #
 
-
-## 📫 Index
-
-- [Getting Started](#installation)
-  * [Prerequisites](#prerequisites)
-- [To run JavaScript Function](#runJavaScriptFunction)
-- [Usage](#usage)
-- [Result Of Test Cases](#result)
-- [Conclusion](#conclusion)
-
 ## <a name="section-installation">Getting Started</a>
 
 ### 💬 Previous Requirements
