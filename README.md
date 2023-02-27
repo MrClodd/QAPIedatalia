@@ -1,4 +1,4 @@
-# Tests QA API for Edatalia challenge #
+# Tests QA API for Edatalia #
 
 
 ## Table of Contents
