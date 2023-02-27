@@ -36,10 +36,6 @@ You should run this command:
   node functionMaxZeroBinary.js
 ```
 
-## <a name="tools">Why this Framework?</a>
-
-* I use Mocha in order to test API Rest, which is an open-source JavaScript testing Framework that runs on NodeJS. It's designed for run testing synchronous and asynchronous code with a very simple interface. Mocha needs Chai, which is an assertion library. This library can use to test assertions with BDD and TDD and can pair with any JavaScript testing framework too. 
-
 ## <a name="usage">Usage</a>
 
 ### Run API test
