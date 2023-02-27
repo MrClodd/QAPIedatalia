@@ -41,28 +41,28 @@ You should run this command:
  <p align="center">
 <img src="https://github.com/MrClodd/QAPIedatalia/blob/bbb3f84964de380299d4d37b5c447bd26a2f449c/2023-02-27%2014_04_12-Edatalia%20-%20My%20Workspace.png" width=90% height=90%>
  
-<br>Test case 1: Max amount of 0s when the binary has multiple groups of 0s 
+🧪<br>Test case 1: Max amount of 0s when the binary has multiple groups of 0s 
 <br>Test Data: 545
 <br>Binary is: 1000100001
 <br>Result is: 4
 
 
-<br>Test Case 2: Max amount of zeros when the binary has one group of 0s
+🧪<br>Test Case 2: Max amount of zeros when the binary has one group of 0s
 <br>Test Data: 9
 <br>Binary is: 1001
 <br>Result is: 2
 
-<br>Test Case 3: Max amount of zero when the binary only has 1s 
+🧪<br>Test Case 3: Max amount of zero when the binary only has 1s 
 <br>Test Data: 7
 <br>Binary is: 111
 <br>Result is: 4
 
-<br>Test Case 4: Max amount of zero when the binary has not group of 0s between 1s 
+🧪<br>Test Case 4: Max amount of zero when the binary has not group of 0s between 1s 
 <br>Test Data: 16
 <br>Binary is: 10000
 <br>Result is: 4
 
-<br>Test Case 5: Max amount of 0s when the binary has multiple groups of 0s 
+🧪<br>Test Case 5: Max amount of 0s when the binary has multiple groups of 0s 
 <br>Test Data: 16666666666666666666666666 out of the range
 <br>Result is: status 400
 <br>Title of error: "One or more validation errors occurred.",
