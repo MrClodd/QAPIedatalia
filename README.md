@@ -48,11 +48,10 @@ You should run this command:
   npm run test
 ```
 
-## <a name="result">Result of Test Cases</a>
+## <a name="result">Result of Test Cases in Postman</a>
 
  The tests cases is ejecuting to check the API Rest
-<br>How the API Works? given a positive integer, then the api need to became in binary and take the max amount of zeros between one.
-
+ 
 <br>Test case 1: Max amount of 0s when the binary has multiple groups of 0s 
 <br>Test Data: 545
 <br>Binary is: 1000100001
