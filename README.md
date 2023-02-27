@@ -82,5 +82,5 @@ You should run this command:
 ## <a name="conclusion">Conclusion</a>
 
 The validation in this suite only needs to insert an integer number and then check if the API is showing the correct expected result according to the behavior mentioned in beginning. 
-<br>The assertions of chai, for example, "should.equal", help us to make sure if the result that we spect in the test case is the expected result, in another case, the test will be failed.
+<br>The assertions of chai, for example, "pm.test("Status code is 200", function", help us to make sure if the result that we spect in the test case is the expected result, in another case, the test will be failed.
 
