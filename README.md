@@ -5,7 +5,6 @@
 
 - [Getting Started](#installation)
   * [Prerequisites](#prerequisites)
-  * [Project Setup](#install-project)
 - [To run JavaScript Function](#runJavaScriptFunction)
 - [Usage](#usage)
 - [Result Of Test Cases](#result)
