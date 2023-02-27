@@ -26,7 +26,7 @@ You should run this command:
   node functionMaxZeroBinary.js
 ```
 
-## <a name="usage">Usage</a>
+## 📍<a name="usage">Usage</a>
 
 ### 📖 Run API test
 
