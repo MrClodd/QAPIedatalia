@@ -46,7 +46,7 @@ You should run this command:
 
 ## <a name="result">Result of Test Cases in Postman</a>
 
- The tests cases is ejecuting to check the API Rest
+ The tests cases is ejecuting to check the API Rest on Edatalia
  
 <br>Test case 1: Max amount of 0s when the binary has multiple groups of 0s 
 <br>Test Data: 545
