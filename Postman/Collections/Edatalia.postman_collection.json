@@ -1,0 +1,157 @@
+{
+	"info": {
+		"_postman_id": "b49ff299-2852-496e-a99c-b3d3aebfccab",
+		"name": "Edatalia",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "12913336"
+	},
+	"item": [
+		{
+			"name": "GET value 2",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{urlvalue2}}",
+					"host": [
+						"{{urlvalue2}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET value 4",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{urlvalue4}}",
+					"host": [
+						"{{urlvalue4}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET value 0",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{urlvalue0}}",
+					"host": [
+						"{{urlvalue0}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET error 400",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 400\", function () {\r",
+							"    pm.response.to.have.status(400);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{urlerror400}}",
+					"host": [
+						"{{urlerror400}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Url GET value 0",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{geturlvalue0}}",
+					"host": [
+						"{{geturlvalue0}}"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
