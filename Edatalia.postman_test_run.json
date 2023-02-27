@@ -1,0 +1,177 @@
+{
+	"id": "0d1ea558-3f67-4f78-a010-50e3f61f3a04",
+	"name": "Edatalia",
+	"timestamp": "2023-02-27T12:59:35.157Z",
+	"collection_id": "12913336-b49ff299-2852-496e-a99c-b3d3aebfccab",
+	"folder_id": 0,
+	"environment_id": "12913336-8eda6ce1-1aff-431a-a953-52defd27f7c9",
+	"totalPass": 5,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2023-02-27T12:59:10.011Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "38466c05-1d26-4cfb-970b-f71f4277bc23",
+			"name": "GET value 2",
+			"url": "",
+			"time": 3075,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				3075
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "9f7a8d54-eaa4-4251-85bf-c1f8c6197cb0",
+			"name": "GET value 4",
+			"url": "https://edataliacodetest.azurewebsites.net/BinaryZeros/545",
+			"time": 6596,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				6596
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "45a58e08-bbe5-4242-9324-8de9d72ce8d6",
+			"name": "GET value 0",
+			"url": "https://edataliacodetest.azurewebsites.net/BinaryZeros/7",
+			"time": 5159,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				5159
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "c143970c-1ab5-4f91-92d6-77c74b4b7d60",
+			"name": "GET error 400",
+			"url": "https://edataliacodetest.azurewebsites.net/BinaryZeros/16666666666666666666666666",
+			"time": 4838,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request"
+			},
+			"tests": {
+				"Status code is 400": true
+			},
+			"testPassFailCounts": {
+				"Status code is 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				4838
+			],
+			"allTests": [
+				{
+					"Status code is 400": true
+				}
+			]
+		},
+		{
+			"id": "f7d3ed85-4236-4dec-b3ed-31cf3332290c",
+			"name": "Url GET value 0",
+			"url": "https://edataliacodetest.azurewebsites.net/BinaryZeros/16",
+			"time": 4872,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				4872
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 24540,
+	"collection": {
+		"requests": [
+			{
+				"id": "38466c05-1d26-4cfb-970b-f71f4277bc23",
+				"method": "GET"
+			},
+			{
+				"id": "9f7a8d54-eaa4-4251-85bf-c1f8c6197cb0",
+				"method": "GET"
+			},
+			{
+				"id": "45a58e08-bbe5-4242-9324-8de9d72ce8d6",
+				"method": "GET"
+			},
+			{
+				"id": "c143970c-1ab5-4f91-92d6-77c74b4b7d60",
+				"method": "GET"
+			},
+			{
+				"id": "f7d3ed85-4236-4dec-b3ed-31cf3332290c",
+				"method": "GET"
+			}
+		]
+	}
+}
