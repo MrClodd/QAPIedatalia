@@ -80,6 +80,6 @@ You should run this command:
 
 ## <a name="conclusion">Conclusion</a>
 
-The validation in this suite only needs to insert an integer number and then check if the API is showing the correct expected result according to the behavior mentioned in beginning. 
-<br>The assertions of chai, for example, "pm.test("Status code is 200", function", help us to make sure if the result that we spect in the test case is the expected result, in another case, the test will be failed.
+Validation on this collection just needs to insert some variables inside Postman and then check if the API returns the correct expected result according to the behavior mentioned at the beginning.
+<br>The assertions can be seen for example: "pm.test("Status code is 200", function", helps us make sure that the behavior we are looking for tests the expected result. On the other hand, the test can be failed.
 
