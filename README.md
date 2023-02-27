@@ -41,7 +41,7 @@ You should run this command:
  <p align="center">
 <img src="https://github.com/MrClodd/QAPIedatalia/blob/bbb3f84964de380299d4d37b5c447bd26a2f449c/2023-02-27%2014_04_12-Edatalia%20-%20My%20Workspace.png" width=90% height=90%>
  
-🧪<br>Test case 1: Max amount of 0s when the binary has multiple groups of 0s 
+🧪Test case 1: Max amount of 0s when the binary has multiple groups of 0s 
 <br>Test Data: 545
 <br>Binary is: 1000100001
 <br>Result is: 4
