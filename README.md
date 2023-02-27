@@ -34,7 +34,7 @@ You should run this command:
   npm run test
 ```
 
-## <a name="result">Result of Test Cases in Postman</a>
+## 💖 <a name="result">Result of Test Cases in Postman</a>
 
  The tests cases is ejecuting to check the API Rest on Edatalia
  
