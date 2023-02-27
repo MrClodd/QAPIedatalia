@@ -70,10 +70,10 @@ You should run this command:
 <br>Result is: 4
 
 <br>Test Case 5: Max amount of 0s when the binary has multiple groups of 0s 
-<br>Test Data: 2147483649 out of the range
+<br>Test Data: 16666666666666666666666666 out of the range
 <br>Result is: status 400
 <br>Title of error: "One or more validation errors occurred.",
-<br>Error number: "The value '2147483649' is not valid."
+<br>Error number: "The value '16666666666666666666666666' is not valid."
 
 ## <a name="conclusion">Conclusion</a>
 
