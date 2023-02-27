@@ -17,10 +17,12 @@
 Required
 
 - NodeJS 12
+- Javascript
 
 Recommended
 
 - VS Code
+- Postman
 
 You should run this command:
 ```bash
