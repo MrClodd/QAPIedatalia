@@ -68,7 +68,7 @@ You should run this command:
 <br>Title of error: "One or more validation errors occurred.",
 <br>Error number: "The value '16666666666666666666666666' is not valid."
 
-## <a name="conclusion">Conclusion</a>
+## 📖 <a name="conclusion">Conclusion</a>
 
 Validation on this collection just needs to insert some variables inside Postman and then check if the API returns the correct expected result according to the behavior mentioned at the beginning.
 <br>The assertions can be seen for example: "pm.test("Status code is 200", function", helps us make sure that the behavior we are looking for tests the expected result. On the other hand, the test can be failed.
