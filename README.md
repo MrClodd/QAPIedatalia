@@ -1,7 +1,7 @@
 # Tests QA API for Edatalia #
 
 
-## Table of Contents
+## 📫 Index
 
 - [Getting Started](#installation)
   * [Prerequisites](#prerequisites)
@@ -12,7 +12,7 @@
 
 ## <a name="section-installation">Getting Started</a>
 
-### Prerequisites
+### 💬 Previous Requirements
 
 Required
 
@@ -38,7 +38,7 @@ You should run this command:
 
 ## <a name="usage">Usage</a>
 
-### Run API test
+### 📖 Run API test
 
 ```bash
   npm run test
