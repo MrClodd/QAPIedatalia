@@ -18,7 +18,7 @@ You should run this command:
 ```bash
   npm install
 ```
-## <a name="runJavaScriptFunction">To run JavaScript Function</a>
+## 🚀 <a name="runJavaScriptFunction">To run JavaScript Function</a>
 
 - Open the bash in the folder javaScriptFunction and run the following command.
 
